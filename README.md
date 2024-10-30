@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Amrendra Singh
 - 👀 I’m interested to work hard
 - 🌱 I’m a BTech CSE AI student at KIET Group of Institutions
-- 📫 liked in : https://www.linkedin.com/in/amrendra1299/
+- 📫 linked in : https://www.linkedin.com/in/amrendra1299/
 - ⚡ Fun fact: I am a Foodie
 
 <!---
