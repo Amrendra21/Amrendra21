@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amrendra Singh
 - 👀 I’m interested to work hard
-- 🌱 I’m a BTech CSE AI student at KIET Group of Institutions
+- 🌱 I’m a BTech CSE AI student at KIET Group of Institutions 
 - ⚡ Fun fact: I am a Foodie
 
 <!---
