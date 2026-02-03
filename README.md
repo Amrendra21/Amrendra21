@@ -1,3 +1,9 @@
+# 
+ My GitHub Activity Game
+<p align="center">
+  <img src="assets/space-shooter.gif" />
+</p>
+
 # 💫 About Me:
 Hey! I'm Amrendra Singh 👨‍💻<br>A self-taught developer 🚀 and problem solver 🧠 who loves turning ideas 💡 into real web apps 🌐.<br><br>💻 Currently working on Cloud Computing with AWS and exploring Machine Learning 🤖<br><br>🧩 Passionate about DSA & competitive programming in C++<br><br>🌱 Always learning new tech and leveling up step by step 📈<br><br>💬 Ask me about: JavaScript, React, Tailwind CSS, C++ (DSA/competitive programming), AWS, and my learning journey in tech.🔥<br><br>♟️ Fun fact: I love chess, and it shapes how I approach strategy, problem-solving, and coding challenges. ✨
 
