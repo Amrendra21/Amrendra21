@@ -1,12 +1,10 @@
-# 
- My GitHub Activity Game
-<p align="center">
-  <img src="assets/space-shooter.gif" />
-</p>
-
 # 💫 About Me:
 Hey! I'm Amrendra Singh 👨‍💻<br>A self-taught developer 🚀 and problem solver 🧠 who loves turning ideas 💡 into real web apps 🌐.<br><br>💻 Currently working on Cloud Computing with AWS and exploring Machine Learning 🤖<br><br>🧩 Passionate about DSA & competitive programming in C++<br><br>🌱 Always learning new tech and leveling up step by step 📈<br><br>💬 Ask me about: JavaScript, React, Tailwind CSS, C++ (DSA/competitive programming), AWS, and my learning journey in tech.🔥<br><br>♟️ Fun fact: I love chess, and it shapes how I approach strategy, problem-solving, and coding challenges. ✨
 
+# My GitHub Activity Game
+<p align="center">
+  <img src="assets/space-shooter.gif" width=400/>
+</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amrendra21.exe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amrendra21) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:singhamrendra1299@gmail.com) 
@@ -17,11 +15,3 @@ Hey! I'm Amrendra Singh 👨‍💻<br>A self-taught developer 🚀 and problem 
 ![](https://github-readme-stats.vercel.app/api?username=Amrendra21&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Amrendra21&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amrendra21&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Amrendra21&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Amrendra21&icon=0&color=13)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
