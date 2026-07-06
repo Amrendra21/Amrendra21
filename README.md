@@ -32,20 +32,3 @@ Hey! I'm Amrendra Singh 👨‍💻<br>A self-taught developer 🚀 and problem 
 📚 **Published in:** Proceedings of the International Conference on Recent Advances in Intelligent and Sustainable Technologies (RAIST 2026), Atlantis Press (Springer Nature)
 
 🔗 **DOI:** https://doi.org/10.2991/978-94-6239-707-1_23
-
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amrendra21&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amrendra21&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amrendra21&theme=tokyonight"/>
-
-</p>
