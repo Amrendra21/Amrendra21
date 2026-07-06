@@ -34,12 +34,18 @@ Hey! I'm Amrendra Singh 👨‍💻<br>A self-taught developer 🚀 and problem 
 🔗 **DOI:** https://doi.org/10.2991/978-94-6239-707-1_23
 
 
-# 📈 Contribution Graph
+# 📊 GitHub Stats
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amrendra21&theme=tokyo-night"/>
+<p align="center">
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amrendra21&show_icons=true&theme=tokyonight"/>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Amrendra21&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Amrendra21&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amrendra21&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amrendra21&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amrendra21&theme=tokyonight"/>
+
+</p>
