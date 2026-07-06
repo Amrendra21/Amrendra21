@@ -33,6 +33,12 @@ Hey! I'm Amrendra Singh 👨‍💻<br>A self-taught developer 🚀 and problem 
 
 🔗 **DOI:** https://doi.org/10.2991/978-94-6239-707-1_23
 
+
+# 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amrendra21&theme=tokyo-night"/>
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Amrendra21&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Amrendra21&theme=dark&hide_border=false)<br/>
