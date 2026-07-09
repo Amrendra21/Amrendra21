@@ -2,12 +2,13 @@
   <img src="assets/space-shooter.gif" width=400/>
 </p>
 
-## About Me
-• AWS Certified Data Engineer Associate
-• 300+ Problems Solved on LeetCode
-• Full Stack Developer (MERN)
-• Research Paper Published (Springer Proceedings)
-• Interested in Distributed Systems, Cloud, and Machine Learning
+## 💫 About Me
+
+Computer Science undergraduate passionate about building scalable software and solving challenging problems.
+
+My interests span **Data Structures & Algorithms, Full-Stack Development, Cloud Computing, Data Engineering,** and **Artificial Intelligence**.
+
+I enjoy designing efficient systems, building impactful applications, and continuously improving my problem-solving and software engineering skills.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amrendra21.exe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amrendra21) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:singhamrendra1299@gmail.com) 
