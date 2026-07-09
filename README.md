@@ -2,9 +2,12 @@
   <img src="assets/space-shooter.gif" width=400/>
 </p>
 
-# 💫 About Me:
-Hey! I'm Amrendra Singh 👨‍💻<br>A self-taught developer 🚀 and problem solver 🧠 who loves turning ideas 💡 into real web apps 🌐.<br><br>💻 Currently working on Cloud Computing with AWS and exploring Machine Learning 🤖<br><br>🧩 Passionate about DSA & competitive programming in C++<br><br>🌱 Always learning new tech and leveling up step by step 📈<br><br>💬 Ask me about: JavaScript, React, Tailwind CSS, C++ (DSA/competitive programming), AWS, and my learning journey in tech.🔥<br><br>♟️ Fun fact: I love chess, and it shapes how I approach strategy, problem-solving, and coding challenges. ✨
-
+## About Me
+• AWS Certified Data Engineer Associate
+• 300+ Problems Solved on LeetCode
+• Full Stack Developer (MERN)
+• Research Paper Published (Springer Proceedings)
+• Interested in Distributed Systems, Cloud, and Machine Learning
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amrendra21.exe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amrendra21) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:singhamrendra1299@gmail.com) 
